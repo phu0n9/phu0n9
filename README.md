@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phu0n9
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and Web Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any Data Analytics or Full stack projects
 - 📫 How to reach me through email: pnha1303@gmail.com
