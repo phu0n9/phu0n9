@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Phuong
-- Whatsssaahhhhhh
+- 👋 Hi, I’m Anh Phuong
+- Welcome to my Github 
 - 📫 How to reach me through email: pnha1303@gmail.com
 
 <!---
