@@ -2,10 +2,8 @@
 - Welcome to my Github 
 - 📫 How to reach me through email: pnha1303@gmail.com
 
-Visitor count:
 
-![Visitor Count](https://profile-counter.glitch.me/phu0n9/count.svg)
-
+![Visitor count](https://komarev.com/ghpvc/?username=phu0n9&color=green&style=flat)
 
 ![Phuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phu0n9&show_icons=true&theme=merko)
 
