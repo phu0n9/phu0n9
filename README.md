@@ -2,6 +2,7 @@
 - Welcome to my Github 
 - 📫 How to reach me through email: pnha1303@gmail.com
 
+Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/phu0n9/count.svg)
 
 <!---
